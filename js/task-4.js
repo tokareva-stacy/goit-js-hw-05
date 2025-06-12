@@ -1,4 +1,6 @@
-
+const getTotalBalanceByGender = (users, gender) => {
+  
+}
 
 const clients = [
 	{

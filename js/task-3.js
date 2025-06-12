@@ -1,3 +1,6 @@
+const sortByDescendingFriendCount = users => {
+  
+}
 
 console.log(
     sortByDescendingFriendCount([

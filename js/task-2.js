@@ -1,4 +1,6 @@
-
+const getUsersWithFriend = (users, friendName) => {
+  
+}
 
 const allUsers = [
     {
